@@ -1,6 +1,6 @@
 # ☁️ İlkel-Cloudstream
 
-Bu depo [Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream) projesinin ve [Feroxx-cloudstream](https://github.com/feroxx/Kekik-cloudstream) geliştirilmiş ve değiştirilmiş bir versiyonudur.
+Bu depo [Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream) projesinin ve [Feroxx-cloudstream](https://github.com/feroxx/Kekik-cloudstream) projesinin ve değiştirilmiş bir versiyonudur.
 
 **Kısakod:** `SİSTEM ŞUAN DEVRE DIŞI`
 
