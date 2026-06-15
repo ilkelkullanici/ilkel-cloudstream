@@ -1,8 +1,8 @@
 # ☁️ İlkel-Cloudstream
 
-Bu depo [Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream) projesinin geliştirilmiş bir versiyonudur.
+Bu depo [Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream) projesinin ve [Feroxx-cloudstream](https://github.com/feroxx/Kekik-cloudstream) geliştirilmiş ve değiştirilmiş bir versiyonudur.
 
-**Kısakod:** `ilkelkullanici`
+**Kısakod:** `SİSTEM ŞUAN DEVRE DIŞI`
 
 Çalışmayan eklenti ya da eklenmesini istediğiniz eklenti istekleriniz için issue açabilirsiniz.
 
