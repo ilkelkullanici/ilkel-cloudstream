@@ -2,7 +2,7 @@
 
 Bu depo [Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream) projesinin ve [Feroxx-cloudstream](https://github.com/feroxx/Kekik-cloudstream) projesinin ve değiştirilmiş bir versiyonudur.
 
-**Kısakod:** `SİSTEM ŞUAN DEVRE DIŞI`
+**Kısakod:** `SİSTEM SONSUZA KADAR DEVRE DIŞI` 
 
 Çalışmayan eklenti ya da eklenmesini istediğiniz eklenti istekleriniz için issue açabilirsiniz.
 
